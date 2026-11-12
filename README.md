@@ -7,6 +7,8 @@ Installed apps find new versions here on their own and ask before updating.
 
 This repository only holds release files.
 
+Browser extension privacy policy: [PRIVACY.md](PRIVACY.md)
+
 ---
 
 윈도우 바탕화면 음악 위젯.
